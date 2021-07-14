@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 4em;
+  color: #7ee2df;
+}
